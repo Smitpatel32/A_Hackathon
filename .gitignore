@@ -1,7 +1,5 @@
 # npm
-node_modules
-package-lock.json
-*.log
-*.gz
+Backend/node_modules/
+Backend/package-lock.json
 
 # ignore additional files using core.excludesFile
